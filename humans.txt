@@ -19,4 +19,6 @@
 
 # New line by bye-bye!
 
-Humans have both individual and collective responsibility
+# Humans have both individual and collective responsibility
+
+# A human is a social being
