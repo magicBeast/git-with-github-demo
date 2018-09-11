@@ -18,3 +18,5 @@
     jQuery, Modernizr
 
 # New line by bye-bye!
+
+Humans have both individual and collective responsibility
