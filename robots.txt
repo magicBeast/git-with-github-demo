@@ -20,3 +20,5 @@ Disallow:
 # This line was added 7th September at 12.15
 
 # This line was added to test ssh connection
+
+# Robots can be used to serve the need of human beings
